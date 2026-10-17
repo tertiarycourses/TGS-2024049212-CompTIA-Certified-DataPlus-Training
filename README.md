@@ -3,7 +3,7 @@
 [![Course Code](https://img.shields.io/badge/WSQ-TGS--2024049212-1F6FEB)](https://www.tertiarycourses.com.sg/wsq-comptia-certified-data-training.html)
 [![Certification](https://img.shields.io/badge/CompTIA-Data%2B%20DA0--001-10B981)](https://exams.tertiaryinfotech.com/practice-exams/comptia/comptia-data-plus)
 [![Duration](https://img.shields.io/badge/Duration-5%20days%20%C2%B7%2040%20hours-7C3AED)](#lesson-plan)
-[![Funding](https://img.shields.io/badge/WSQ%20Funding-50--70%25-F59E0B)](https://www.tertiarycourses.com.sg/wsq-comptia-certified-data-training.html)
+[![Funding](https://img.shields.io/badge/WSQ%20Funding-up%20to%2070%25-F59E0B)](https://www.tertiarycourses.com.sg/wsq-comptia-certified-data-training.html)
 
 Official courseware for the WSQ **CompTIA Certified Data+ Training** course delivered by
 **Tertiary Infotech Academy Pte Ltd** (UEN 201200696W). The material is aligned 100% to the
@@ -12,9 +12,21 @@ Official courseware for the WSQ **CompTIA Certified Data+ Training** course deli
 
 **[→ Register for this course](https://www.tertiarycourses.com.sg/wsq-comptia-certified-data-training.html)**
 
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2024049212` |
+| Programme | WSQ — Data Analytics (ATP-PIN-3001-1.1) |
+| Duration | 5 days / 40 hours |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-comptia-certified-data-training.html) |
+| Funding | Up to 70% WSQ course-fee funding for eligible Singapore Citizens and PRs. Eligibility, verification and prevailing terms apply. |
+
 ---
 
-## What you will learn
+## About the course
+
+A five-day, lab-driven preparation for the CompTIA Data+ (DA0-001) exam: learners acquire, clean, integrate, analyse, visualise and govern data across 15 browser-based labs, with every lab shipping its own dataset.
+
+## Learning outcomes
 
 | # | Learning Outcome | K/A |
 |---|---|---|
@@ -24,7 +36,9 @@ Official courseware for the WSQ **CompTIA Certified Data+ Training** course deli
 | **LO4** | Present analytical outputs visually to communicate data effectively | K3, A5 |
 | **LO5** | Recognize and interpret sequential patterns to establish linkages between variables | A4 |
 
-## Exam domains covered
+## Topics covered
+
+The five topics follow the CompTIA Data+ (DA0-001) exam domains.
 
 | Domain | Topic | Exam weighting | Day | Labs |
 |---|---|---|---|---|
@@ -36,7 +50,7 @@ Official courseware for the WSQ **CompTIA Certified Data+ Training** course deli
 
 ---
 
-## Hands-on labs
+## Labs
 
 **15 labs — every one runs free in your browser. Nothing to install.**
 
@@ -85,18 +99,16 @@ Then open the [Killercoda Ubuntu playground](https://killercoda.com/playgrounds/
 
 ---
 
-## Courseware
+## Public courseware package
 
 | Artifact | File |
 |---|---|
-| Trainer Slides (214 slides) | [`courseware/WSQ - CompTIA Certified Data+ Training-v5.1.pptx`](courseware/) |
-| Lesson Plan (10 pp) | [`courseware/LP-WSQ - CompTIA Certified Data+ Training.docx`](courseware/) |
-| Learner Guide (45 pp) | [`courseware/LG-WSQ - CompTIA Certified Data+ Training.docx`](courseware/) |
+| Trainer Slides (PPTX) · Learner Slides (PDF) | [PPTX](courseware/WSQ%20-%20CompTIA%20Certified%20Data+%20Training-v5.1.pptx) · [PDF](courseware/WSQ%20-%20CompTIA%20Certified%20Data+%20Training-v5.1.pdf) |
+| Lesson Plan | [DOCX](courseware/LP-WSQ%20-%20CompTIA%20Certified%20Data+%20Training.docx) · [PDF](courseware/LP-WSQ%20-%20CompTIA%20Certified%20Data+%20Training.pdf) |
+| Learner Guide | [DOCX](courseware/LG-WSQ%20-%20CompTIA%20Certified%20Data+%20Training.docx) · [PDF](courseware/LG-WSQ%20-%20CompTIA%20Certified%20Data+%20Training.pdf) |
 | Learner Guide (Markdown) | [`LG-WSQ - CompTIA Certified Data+ Training.md`](LG-WSQ%20-%20CompTIA%20Certified%20Data+%20Training.md) |
 | Lab index | [`labs/README.md`](labs/README.md) |
 
-> The **assessment papers and answer keys are confidential** and are distributed via the
-> LMS and Google Drive only. They are deliberately not published in this repository.
 
 ### Lesson Plan
 
@@ -124,12 +136,21 @@ Prepare for the **CompTIA Data+ (DA0-001)** certification exam with the matching
 
 ## Funding
 
-WSQ subsidies of **50–70%** are available to eligible Singapore Citizens and PRs, with
+WSQ course-fee funding of **up to 70%** is available to eligible Singapore Citizens and PRs (eligibility and verification apply), with
 SkillsFuture Credit, SFEC, UTAP and PSEA options. A minimum **75% attendance** and a
 **Competent** assessment result are required.
 See the [course page](https://www.tertiarycourses.com.sg/wsq-comptia-certified-data-training.html) for current rates.
 
-## Support
+## Distribution boundary
+
+This repository publishes the learner-facing courseware and labs. The **assessment papers and
+answer keys are confidential**: question papers are issued through the LMS, answer keys remain
+trainer-only, and neither is published here. Source reference material is also withheld.
+
+## Provider and support
+
+Developed and delivered by **Tertiary Infotech Academy Pte Ltd** (UEN 201200696W).
+
 
 - **Email:** enquiry@tertiaryinfotech.com
 - **Tel / WhatsApp:** +65 6100 0613
